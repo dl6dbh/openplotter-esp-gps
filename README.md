@@ -2,6 +2,7 @@
 
 
 Hardware:
+
 NEO6M GPS GY-GPS6MV2 GPS Modul NEO6MV2 9,90 Euro
 
 WeMos D1 mini 2,45 Euro
